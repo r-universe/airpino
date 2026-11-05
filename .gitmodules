@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DDAWASS"]
+	path = DDAWASS
+	url = https://github.com/airpino/ddawass
 [submodule "HistDAWass"]
 	path = HistDAWass
 	url = https://github.com/airpino/histdawass
